@@ -12,3 +12,22 @@ nav{
 
 
 /* /navbar */
+
+
+/* header */
+header{
+    background-color: #1abc9c;
+}
+
+header .image-header{
+    width: 200px;
+    height: 200px;
+}
+
+header .star-container{
+    width: 200px;
+    height: 10px;
+}
+
+
+/*/ header */
