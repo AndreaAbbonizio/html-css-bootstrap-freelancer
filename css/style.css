@@ -4,6 +4,20 @@
 }
 
 
+.star-container{
+    width: 200px;
+    height: 10px;
+}
+
+.btn-light{
+    color: white;
+    background-color: transparent;
+}
+
+.btn-success{
+    background-color: #1abc9c;
+    border: transparent;
+}
 /* navbar */
 nav{
     height: 100px;
@@ -24,10 +38,18 @@ header .image-header{
     height: 200px;
 }
 
-header .star-container{
-    width: 200px;
-    height: 10px;
-}
 
 
 /*/ header */
+
+
+/* main */
+
+main .cards-container{
+    width: 100%;
+}
+
+main .about-container{
+    background-color: #1abc9c;
+}
+/*/ main */
