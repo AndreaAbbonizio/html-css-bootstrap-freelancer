@@ -4,9 +4,27 @@
 }
 
 
+.fa-bars{
+    font-size: 1.5em;
+    padding: .6em;
+    border: 1px solid white;
+    border-radius: .2em;
+}
 .star-container{
-    width: 200px;
-    height: 10px;
+    width: 100%;
+    
+}
+
+.lateral-bar{
+    width: 100%;
+    max-width: 100px;
+    height: 4px;
+    background-color: white;
+}
+
+
+.fa-star{
+    font-size: 2em;
 }
 
 .btn-light{
@@ -22,20 +40,20 @@
 nav{
     height: 100px;
     background-color: #2c3e50;
+    color: white;
 }
 
 
 /* /navbar */
 
-
 /* header */
 header{
     background-color: #1abc9c;
+    color: white;
 }
 
 header .image-header{
     width: 200px;
-    height: 200px;
 }
 
 
